@@ -1,0 +1,15 @@
+
+.col {
+    margin-bottom: 1rem;
+    margin-left: 4.5rem;
+    margin-right: 0.5rem;
+  }
+
+  @media (max-width: 768px) {
+    .col {
+      max-width: 100%;
+      margin-left: -20px;
+    }
+  }
+
+  
